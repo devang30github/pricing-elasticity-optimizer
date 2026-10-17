@@ -5,7 +5,7 @@ How much does demand respond when a retailer changes its prices, and what does t
 **Stack:** Python (pandas, scikit-learn, XGBoost, statsmodels, pyfixest), Power BI (DAX, what-if parameters), Git.
 
 <!-- Add screenshots: docs/overview.png, docs/simulator.png, docs/price_response_binned.png -->
-![Price simulator](docs/price-simulator.png)
+![Price simulator](docs/price-simulator.jpg)
 
 ## Headline findings
 
